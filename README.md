@@ -176,5 +176,5 @@ User-focused  → UI should feel clear, simple, and useful
 ### ✨ Thanks for visiting my profile ✨
 
 *"Small progress every day leads to real improvement."*
-
+![GitHub RPG](https://gitrpg.onrender.com/card/snag21205.svg)
 </div>
